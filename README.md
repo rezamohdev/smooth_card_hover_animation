@@ -1,4 +1,4 @@
-# Nice animation for card or element hover.
+# Project: Nice animation on element hover.
 
 ### Project feature and tools used
 
@@ -7,4 +7,6 @@
 - SVG
 - absolute posioning
 
-* [Link to the porject on github] (https://github.com/rezamohdev/smooth_card_hover_animation)
+**Project on github Github**
+
+- [Link to the porject on github](https://github.com/rezamohdev/smooth_card_hover_animation)
